@@ -32,7 +32,7 @@ margin: 30px;
    border-bottom: 2px solid black;
    width: 0;
    left: 0;
-   top: 25px;
+   top: 20px;
    opacity: 0;
    transition: all 1s ease-in-out;
 }
